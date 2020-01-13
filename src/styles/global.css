@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+div#divWrap > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font: normal normal 400 22px/1.25 sans-serif;
+}
