@@ -1,7 +1,9 @@
 import React from "react"
+import Loadable from "@loadable/component"
 import Block from "../components/Block"
-import Magic from "../components/Magic"
 import "../styles/global.css"
+// React loadable will only load the magic component in the browser because this component doesn't work on the server (dependent on the window)
+const Magic = Loadable(() => import("../components/Magic"))
 
 export default () => {
   return (
