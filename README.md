@@ -1,3 +1,18 @@
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://scrollmagic.io/">
+    <img alt="ScrollMagic" src="https://scrollmagic.io/assets/img/demo_tophat.png" width="60" />
+  </a>
+  <a href="https://greensock.com/">
+    <img alt="GreenSock" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  ScrollMagic & GreenSock combo
+</h1>
+
+Below is a copy of the error that I'm receiving during a `gatsby build`. Local server works just fine.
+
 ```shell
 
   success open and validate gatsby-configs - 0.019s
@@ -56,18 +71,6 @@
     - CSSPlugin.js:169 Object.Module._extensions..js
       node_modules/gsap/CSSPlugin.js:169:2
 ```
-
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's hello-world starter
-</h1>
-
-Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
