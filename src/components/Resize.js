@@ -1,5 +1,5 @@
 // import React, { useState, useRef, useEffect, useLayoutEffect } from "react"
-import React, { useRef, useEffect } from "react"
+import React, { useEffect } from "react"
 // import Measure from "react-measure"
 
 import ScrollMagic from "scrollmagic"
