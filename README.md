@@ -89,7 +89,6 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     cd ScrollMagicGSAP && npm i && gatsby develop
-    gatsby develop
     ```
 
     Your site is now running at `http://localhost:8000`!
@@ -102,10 +101,14 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 1.  **Run the build to see the errors**
 
-    Your site is now running at `http://localhost:8000`!
+    The build errors in both `build` and `serve` modes.
 
     ```shell
-    nvm use 12.8.1
+    gatsby build
+    ```
+
+    ```shell
+    gatsby serve
     ```
 
     See above for error. Help me Dev Jedis. You're my only hope.
